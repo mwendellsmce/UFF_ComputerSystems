@@ -1,0 +1,9 @@
+# Arquivos de dados gerados pelo programa
+*.db
+
+# Arquivos compactados
+*.zip
+
+# Pastas de sistema e de IDE
+__pycache__/
+.idea/
