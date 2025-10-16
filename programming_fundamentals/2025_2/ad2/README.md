@@ -16,23 +16,9 @@ This project is composed of two main Python scripts:
 
 ## How to Run
 
-Follow these steps in your terminal (like Windows CMD or Git Bash).
+First, open your terminal (like Windows CMD or Git Bash) and navigate to the project's directory. You can do this using the `cd` command, for example: `cd path/to/your/project/UFF_ComputerSystems/programming_fundamentals/2025_2/ad2`.
 
-**1. Navigate to the Project Directory**
-First, you need to be inside the folder where the `.py` files are located. Use the `cd` (change directory) command.
+Once you are in the correct directory:
 
-*Example:*
-```cmd
-cd path/to/your/project/UFF_ComputerSystems/programming_fundamentals/2025_2/ad2
-
-2. Run the Desired Script Once you are in the correct directory, run one of the following commands:
-
-    To create or add passwords:
-    DOS
-
-python encoder.py
-
-To search for a saved password:
-DOS
-
-python decoder.py
+* To **create or add** passwords, run the command: `python encoder.py`
+* To **search** for a saved password, run the command: `python decoder.py`
