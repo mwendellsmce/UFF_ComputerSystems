@@ -7,9 +7,9 @@ Welcome to my academic coursework repository. This space serves as an organized 
 
 It contains a wide range of materials, from simple homework exercises to more extensive projects. The main goal is to document my learning journey and maintain a comprehensive record of my academic progress.
 
-📂 Navigating This Repository
+## Navigating This Repository
 
 All coursework is organized in a nested folder structure to be easily browsed. The hierarchy is as follows:
 
-`Subject Name / Year_Semester / Assignment Name`
+`subject_name / year_semester / assignment_name`
 
